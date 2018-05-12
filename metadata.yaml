@@ -1,0 +1,40 @@
+_repo: The-Retreat-from-Mons_46210
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: French, John Denton Pinkstone, Earl of Ypres
+    aliases:
+    - Ypres, John Denton Pinkstone French, Earl of
+    - French, John, Sir
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '26564'
+    url: http://www.gutenberg.org/2009/agents/26564
+    wikipedia: http://en.wikipedia.org/wiki/John_French%2C_1st_Earl_of_Ypres
+covers:
+- cover_type: archival
+  image_path: 46210-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gordon, George Stuart
+    alias: Gordon, G. S.
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '36143'
+    url: http://www.gutenberg.org/2009/agents/36143
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46210'
+  lccn: '17019810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+title: The Retreat from Mons
+url: http://www.gutenberg.org/ebooks/46210
